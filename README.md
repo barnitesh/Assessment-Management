@@ -36,7 +36,7 @@
 ## :movie_camera: Screen Recordings
 
 ### Giving Exams + Results
-![](docs/assets/recordings/GiveExam.gif)
+![](https://github.com/barnitesh/Assessment-Management/blob/705d9cba2217cafd0121ac64781c7125d12b6867/doc/assets/recordings/GiveExam.gif)
 
 > Complete list of screen recordings can be found [here](docs/ScreenRecordings.md)
 
