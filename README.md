@@ -43,7 +43,7 @@
 ## :camera: UI Screenshots
 
 ### Home
-![](https://github.com/barnitesh/Assessment-Management/blob/4cacbc2fc9e5e6c0014af06f94cf77462a227abd/doc/Screenshots.md)
+![image alt](https://github.com/barnitesh/Assessment-Management/blob/1583d7385ad74e39a15143aa062671d83d4b9d7b/Screenshots.md)
 
 > Complete list of screen recordings can be found [here](docs/Screenshots.md)
 
