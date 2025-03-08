@@ -43,7 +43,7 @@
 ## :camera: UI Screenshots
 
 ### Home
-![](docs/assets/screenshots/Home.png)
+![]([docs/assets/screenshots/Home.png](https://github.com/barnitesh/Assessment-Management/tree/6bad94475932f4b7c11a803cf37540bbdadade20/doc/assets/screenshots))
 
 > Complete list of screen recordings can be found [here](docs/Screenshots.md)
 
